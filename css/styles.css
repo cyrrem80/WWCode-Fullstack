@@ -1,0 +1,15 @@
+img {
+  border: 2px dotted black;
+}
+
+h1 {
+  color: red;
+}
+
+a{
+  color: magenta;
+}
+
+li ul {
+  list-style-type: square;
+}
